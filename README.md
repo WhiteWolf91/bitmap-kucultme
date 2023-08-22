@@ -1,0 +1,2 @@
+# bitmap-kucultme
+Bitmap Küçültme
