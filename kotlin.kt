@@ -20,7 +20,7 @@ private fun makeSmallerBitmap(ımage : Bitmap,maximumSize : Int) : Bitmap {
 
     }
 
-maxsimum size 300 girin
+//maxsimum size 300 girin alttaki gibi
 
 
 val SmallerBitmap = makeSmallerBitmap(Bitmap!!,300) // üstteki function Kullanarak Bitmapi küçültürüz
